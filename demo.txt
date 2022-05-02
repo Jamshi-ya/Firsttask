@@ -5,6 +5,7 @@ The  page demo is created to know more about the working of git and github.
 
 to know about the commits,,repositories
 
-
+to know removing
+updating
 
 thnk u...
